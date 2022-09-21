@@ -7,22 +7,15 @@
 
 ## 請求済み
 - [[Inbox/2022-08-18|2022-08-18]]
+- [[Daily/2022-09-21|2022-09-21]]
 
 ## 完了(未請求)
-- [[Inbox/STUDIOでwebサイトを作成してみよう！|STUDIOでwebサイトを作成してみよう！]]
+- [[Inbox/studio-website|studio-website]]
+- [[Inbox/studio-lp-1|studio-lp-1]]
 
 ## 進行中
-- [[Inbox/studio-lp-1(ottimo)|studio-lp-1(ottimo)]]
-- STUDIOでLPの作成-2(スタイリッシュ系)
+- [[Inbox/studio-lp-2|studio-lp-2]]
 
 ## スケジュール
-1. WPのテーマ「Divi」の解説
-	1. 基本編
-	2. 応用編
-	3. 作成編
+1. ノーコードの営業動画作成
 2. サクウェブ様 トップページ一部改修
-
-## メモ
-作成したサイトのURLをそれぞれのノートに貼り付ける
-	見本に作成したサイトのURLではなく、作成したサイトのURLを貼ること
-		見本と作成したサイトで差異があるため
