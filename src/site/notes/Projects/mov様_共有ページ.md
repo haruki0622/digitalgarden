@@ -10,12 +10,11 @@
 - [[Daily/2022-09-21|2022-09-21]]
 
 ## 完了(未請求)
-- [[Inbox/studio-website|studio-website]]
-- [[Inbox/studio-lp-1|studio-lp-1]]
+
 
 ## 進行中
 - [[Inbox/studio-lp-2|studio-lp-2]]
+- [[Inbox/ノーコードWeb制作ツールの営業方法|ノーコードWeb制作ツールの営業方法]]
 
 ## スケジュール
-1. ノーコードの営業動画作成
-2. サクウェブ様 トップページ一部改修
+1. KVスクール様　トップページ作成
